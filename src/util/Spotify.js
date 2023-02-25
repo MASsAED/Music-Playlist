@@ -47,7 +47,7 @@ const Spotify = {
 
             }));
         });
-
+        
     },
 
     savePlayList(name, trackUris) {
