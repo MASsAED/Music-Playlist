@@ -50,8 +50,8 @@ const Spotify = {
 
     },
 
-    savePlayList(name, trackUris) {
-        if (!name || !trackUris.length){
+    savePlaylist(name, trackUris) {
+        if (!name || !trackUris.length) {
             return;
         }
 
